@@ -1,0 +1,4 @@
+
+.boton {
+  @include button($color_secondary, block);
+}
